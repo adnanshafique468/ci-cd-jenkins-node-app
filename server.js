@@ -18,7 +18,7 @@ app.get('/', (req, res) => {
   <body>
       <div class="container">
           <h1>🚀 CI/CD Pipeline Working</h1>
-          <p>Auto Deployment of node app and css using Jenkins + GitHub Webhook</p>
+          <p>Auto Deployment app using Jenkins + GitHub Webhook</p>
           <div class="card">
               <h3>Project Details</h3>
               <ul>
